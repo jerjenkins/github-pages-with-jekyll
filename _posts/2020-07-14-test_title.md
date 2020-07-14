@@ -1,6 +1,6 @@
 ---
 title: "see some things"
-date: 2020-07-15
+date: 2020-07-14
 ---
 
 # a test post
